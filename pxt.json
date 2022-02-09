@@ -2,7 +2,8 @@
     "name": "Group Coding Project",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Group Coding Project": "github:tylerjnickelson/group-coding-project#1e746396df546a5c41b19057d1d5adda7fdd9755"
     },
     "files": [
         "main.blocks",
